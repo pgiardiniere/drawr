@@ -23,4 +23,4 @@ python ./sample.py
 
 ```
 
-If it works you'll get an astronaut_rides_horse.png file.
+If it works you'll get an **astronaut_rides_horse.png** file.
